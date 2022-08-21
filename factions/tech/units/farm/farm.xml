@@ -9,7 +9,7 @@
 		<armor value="0" />
 		<armor-type value="wood"/>
 		<sight value="5" />
-		<time value="50" />
+		<time value="30" />
 		<multi-selection value="true"/>
 		<uniform-selection value="true"/>
 		<max-unit-count value="3"/>
