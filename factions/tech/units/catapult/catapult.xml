@@ -22,7 +22,6 @@
 		</properties>
 		<light enabled="false"/>
 		<unit-requirements>
-			<unit name="blacksmith"/>
 			<unit name="technodrome"/>
 		</unit-requirements>
 		<upgrade-requirements/>
