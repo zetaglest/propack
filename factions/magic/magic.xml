@@ -14,7 +14,6 @@
 		<unit name="battlemage" amount="1"/>
 		<unit name="summoner" amount="1"/>
 		<unit name="daemon" amount="1"/>
-		<unit name="golem" amount="1"/>
 	</starting-units>
 	<music value="true" path="music/music_magic.ogg"/>
 	<flat-particle-positions value="true"/>
