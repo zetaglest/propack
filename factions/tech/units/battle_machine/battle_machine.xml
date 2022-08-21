@@ -73,8 +73,8 @@
 			<type value="move"/>
 			<name value="move_skill"/>
 			<ep-cost value="0"/>
-			<speed value="170"/>
-			<anim-speed value="90"/>
+			<speed value="204"/>
+			<anim-speed value="108"/>
 			<animation path="models/battle_machine_walking.g3d"/>
 			<sound enabled="true" start-time="0">
 				<sound-file path="sounds/machine_walk1.wav"/>
@@ -167,8 +167,8 @@
 			<type value="move"/>
 			<name value="charge_skill"/>
 			<ep-cost value="0"/>
-			<speed value="240"/>
-			<anim-speed value="100"/>
+			<speed value="288"/>
+			<anim-speed value="120"/>
 			<animation path="models/battle_machine_charging.g3d"/>
 			<sound enabled="true" start-time="0">
 				<sound-file path="sounds/machine_walk1.wav"/>

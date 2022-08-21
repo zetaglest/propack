@@ -79,8 +79,8 @@
 			<type value="move"/>
 			<name value="move_skill"/>
 			<ep-cost value="0"/>
-			<speed value="150"/>
-			<anim-speed value="130"/>
+			<speed value="200"/>
+			<anim-speed value="160"/>
 			<animation path="models/initiate_walking.g3d"/>
 			<sound enabled="false"/>
 		</skill>

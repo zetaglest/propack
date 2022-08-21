@@ -86,8 +86,8 @@
 			<type value="move"/>
 			<name value="move_skill"/>
 			<ep-cost value="0"/>
-			<speed value="480"/>
-			<anim-speed value="120"/>
+			<speed value="624"/>
+			<anim-speed value="156"/>
 			<animation path="models/horseman_walking.g3d"/>
 			<sound enabled="true" start-time="0">
 				<sound-file path="$COMMONDATAPATH/sounds/horseman_walk1.wav"/>

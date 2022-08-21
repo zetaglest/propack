@@ -78,8 +78,8 @@
 			<type value="move"/>
 			<name value="move_skill"/>
 			<ep-cost value="0"/>
-			<speed value="250"/>
-			<anim-speed value="100"/>
+			<speed value="330"/>
+			<anim-speed value="110"/>
 			<animation path="models/battlemage_walking.g3d"/>
 			<sound enabled="false"/>
 		</skill>
@@ -88,8 +88,8 @@
 			<type value="attack"/>
 			<name value="attack_skill"/>
 			<ep-cost value="40"/>
-			<speed value="60"/>
-			<anim-speed value="60"/>
+			<speed value="90"/>
+			<anim-speed value="90"/>
 			<animation path="models/battlemage_attacking.g3d"/>
 			<sound enabled="true" start-time="0.3">
 				<sound-file path="sounds/battlemage_attack1.wav"/>

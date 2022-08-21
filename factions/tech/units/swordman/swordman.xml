@@ -68,8 +68,8 @@
 			<type value="move"/>
 			<name value="move_skill"/>
 			<ep-cost value="0"/>
-			<speed value="220"/>
-			<anim-speed value="90"/>
+			<speed value="330"/>
+			<anim-speed value="109"/>
 			<animation path="models/swordman_walking.g3d"/>
 			<sound enabled="false"/>
 		</skill>
@@ -78,8 +78,8 @@
 			<type value="move"/>
 			<name value="charge_skill"/>
 			<ep-cost value="0"/>
-			<speed value="220"/>
-			<anim-speed value="125"/>
+			<speed value="330"/>
+			<anim-speed value="109"/>
 			<animation path="models/swordman_charging.g3d"/>
 			<sound enabled="false"/>
 		</skill>

@@ -10,7 +10,7 @@
 		<armor value="0"/>
 		<armor-type value="leather"/>
 		<sight value="8"/>
-		<time value="80"/>
+		<time value="20"/>
 		<multi-selection value="true"/>
 		<cellmap value="false"/>
 		<levels/>
@@ -89,8 +89,8 @@
 			<type value="move"/>
 			<name value="move_skill"/>
 			<ep-cost value="0"/>
-			<speed value="210"/>
-			<anim-speed value="210"/>
+			<speed value="280"/>
+			<anim-speed value="170"/>
 			<animation path="models/technician_walking.g3d"/>
 			<sound enabled="false"/>
 		</skill>
@@ -127,8 +127,8 @@
 			<type value="attack"/>
 			<name value="molotov_skill"/>
 			<ep-cost value="0"/>
-			<speed value="35"/>
-			<anim-speed value="35"/>
+			<speed value="70"/>
+			<anim-speed value="70"/>
 			<animation path="models/technician_attacking.g3d"/>
 			<sound enabled="true" start-time="0.5">
 				<sound-file path="sounds/technician_attack.wav"/>

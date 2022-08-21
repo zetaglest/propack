@@ -86,8 +86,8 @@
 			<type value="move"/>
 			<name value="move_skill"/>
 			<ep-cost value="0"/>
-			<speed value="190"/>
-			<anim-speed value="130"/>
+			<speed value="240"/>
+			<anim-speed value="163"/>
 			<animation path="models/worker_walking.g3d"/>
 			<sound enabled="false"/>
 		</skill>
@@ -303,8 +303,7 @@
 				<unit name="blacksmith"/>
 				<unit name="defense_tower"/>
 				<unit name="technodrome"/>
-				<unit name="castle"/>
-                                <unit name="aerodrome"/>
+                <unit name="aerodrome"/>
 			</repaired-units>
 		</command>
 

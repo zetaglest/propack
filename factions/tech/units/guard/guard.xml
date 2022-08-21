@@ -67,8 +67,8 @@
 			<type value="move"/>
 			<name value="move_skill"/>
 			<ep-cost value="0"/>
-			<speed value="170"/>
-			<anim-speed value="120"/>
+			<speed value="300"/>
+			<anim-speed value="180"/>
 			<animation path="models/guard_walking.g3d"/>
 			<sound enabled="false"/>
 		</skill>
@@ -128,8 +128,8 @@
 			<type value="move"/>
 			<name value="charge_skill"/>
 			<ep-cost value="0"/>
-			<speed value="170"/>
-			<anim-speed value="120"/>
+			<speed value="300"/>
+			<anim-speed value="180"/>
 			<animation path="models/guard_charging.g3d"/>
 			<sound enabled="false"/>
 		</skill>
