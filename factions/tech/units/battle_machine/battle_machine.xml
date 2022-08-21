@@ -31,8 +31,8 @@
 			<upgrade name="robotics"/>
 		</upgrade-requirements>
 		<resource-requirements>
-			<resource name="wood" amount="300"/>
-			<resource name="gold" amount="150"/>
+			<resource name="wood" amount="150"/>
+			<resource name="gold" amount="100"/>
 			<resource name="food" amount="1"/>
 		</resource-requirements>
 		<resources-stored/>
