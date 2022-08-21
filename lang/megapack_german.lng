@@ -1,0 +1,616 @@
+; TechTree
+TechTreeName=Megapack
+; -------------------------------------
+; Types of Armor
+ArmorTypeName_organic=Organisch
+ArmorTypeName_leather=Leder
+ArmorTypeName_wood=Holz
+ArmorTypeName_metal=Metall
+ArmorTypeName_stone=Stein
+; --------------------
+; Types of Attack
+AttackTypeName_slashing=Schlitzen
+AttackTypeName_piercing=Durchbohren
+AttackTypeName_impact=Einschlag
+AttackTypeName_energy=Energie
+AttackTypeName_sword=Schwert
+AttackTypeName_arrow=Pfeil
+AttackTypeName_magic=Magie
+AttackTypeName_beat=Schlag
+; --------------------
+; Types of Resources
+ResourceTypeName_energy=Energie
+ResourceTypeName_food=Nahrung
+ResourceTypeName_gold=Gold
+ResourceTypeName_housing=Unterkunft
+ResourceTypeName_stone=Stein
+ResourceTypeName_wood=Holz
+; -----------------------------------------------------------------------------
+; Faction
+FactionName_egypt=Ägypter
+; -------------------------------------
+; Types of Upgrades for this Faction
+UpgradeTypeName_power_of_ra=Macht des Ra
+UpgradeTypeName_spear_weapons=Speerwaffen
+UpgradeTypeName_speedup_priest_production=Priesterproduktion beschleunigen
+UpgradeTypeName_summon_ibis=Ibis beschwören
+UpgradeTypeName_summon_scarab=Skarabäus beschwören
+; -------------------------------------
+UnitTypeName_air_pyramid=Luftpyramide
+; --------------------
+LevelName_elite=Elite
+; --------------------
+CommandName_attack_off=Angriff aus
+CommandName_attack_on=Angriff ein
+; -------------------------------------
+UnitTypeName_anubis_warrior=Anubiskrieger
+; --------------------
+LevelName_ancient=antik
+; --------------------
+CommandName_stop=Stopp
+CommandName_move=Bewegen
+CommandName_attack=Angreifen
+; -------------------------------------
+UnitTypeName_chicken=Huhn
+; -------------------------------------
+UnitTypeName_desert_camp=Wüstenzelt
+; --------------------
+CommandName_produce_spearthrower=Speerwerfer produzieren
+CommandName_produce_spearman=Speerkrieger produzieren
+CommandName_upgrade_spear_weapons=Speere verbessern
+; -------------------------------------
+UnitTypeName_farm=Bauernhof
+; --------------------
+CommandName_produce_chicken=Huhn produzieren
+; -------------------------------------
+UnitTypeName_ibis=Ibis
+; --------------------
+CommandName_hold_position=Position halten
+; -------------------------------------
+UnitTypeName_mummy=Mumie
+; -------------------------------------
+UnitTypeName_obelisk=Obelisk
+; --------------------
+CommandName_produce_scarab=Skarabäus produzieren
+CommandName_produce_snake=Schlange produzieren
+CommandName_produce_ibis=Ibis produzieren
+; -------------------------------------
+UnitTypeName_priest=Priester
+; --------------------
+CommandName_speedup_priest_production=Priesterproduktion beschleunigen
+CommandName_heal=heilen
+CommandName_produce_mummy=Mumie produzieren
+CommandName_produce_anubis_warrior=Anubiskrieger produzieren
+CommandName_ice_nova=Eisnova
+; -------------------------------------
+UnitTypeName_pyramid=Pyramide
+; --------------------
+CommandName_produce_slave=Sklaven produzieren
+; -------------------------------------
+UnitTypeName_scarab=Skarabäus
+; --------------------
+LevelName_expert=Experte
+LevelName_master=Meister
+LevelName_legendary=Legende
+; --------------------
+CommandName_dung_attack=Dungangriff
+; -------------------------------------
+UnitTypeName_slave=Sklave
+; --------------------
+CommandName_build_basic=Einfaches Gebäude bauen
+CommandName_repair=Reparieren
+CommandName_mine=Abbauen
+CommandName_harvest_wood=Holz schlagen
+; -------------------------------------
+UnitTypeName_snake=Schlange
+; --------------------
+CommandName_poison_shot=Giftschuss
+; -------------------------------------
+UnitTypeName_spearman=Speerkämpfer
+; -------------------------------------
+UnitTypeName_spearthrower=Speerwerfer
+; -------------------------------------
+UnitTypeName_sphinx=Sphinx
+; -------------------------------------
+UnitTypeName_temple=Tempel
+; --------------------
+CommandName_produce_priest=Priester produzieren
+CommandName_research_scarab=Skarabäus erforschen
+CommandName_research_ibis=Ibis erforschen
+CommandName_get_power_of_ra=Macht des Ra entwickeln
+; -----------------------------------------------------------------------------
+; Faction
+FactionName_indian=Indianer
+; -------------------------------------
+; Types of Upgrades for this Faction
+UpgradeTypeName_advanced_iron=optimiertes Eisen
+UpgradeTypeName_bull_food=Bullenfutter
+UpgradeTypeName_iron=Eisen
+UpgradeTypeName_petroleum=Petroleum
+UpgradeTypeName_stables=Stallungen
+UpgradeTypeName_training_field=Übungsfeld
+; -------------------------------------
+UnitTypeName_archer=Bogenschütze
+; -------------------------------------
+UnitTypeName_axe_indian=Axtkämpfer
+; -------------------------------------
+UnitTypeName_axe_thrower=Axtwerfer
+; -------------------------------------
+UnitTypeName_beehive=Bienenkorb
+; -------------------------------------
+UnitTypeName_big_tent=Großzelt
+; --------------------
+CommandName_produce_stickfighter=produziere Stockkämpfer
+CommandName_produce_archer=Bogenschützen produzieren
+; -------------------------------------
+UnitTypeName_bull=Bulle
+; -------------------------------------
+UnitTypeName_campfire=Lagerfeuer
+; --------------------
+CommandName_produce_fire_golem=Feuergolem produzieren
+CommandName_research_iron=Eisen erforschen
+CommandName_research_advanced_iron=optimiertes Eisen erforschen
+; -------------------------------------
+UnitTypeName_fire_archer=Brandpfeilschütze
+; -------------------------------------
+UnitTypeName_fire_golem=Feuergolem
+; -------------------------------------
+UnitTypeName_horse_farm=Pferdehof
+; --------------------
+CommandName_produce_horseman=Reiter produzieren
+CommandName_produce_bull=Bullen produzieren
+CommandName_research_stables=Stallungen erforschen
+; -------------------------------------
+UnitTypeName_horseman=Reiter
+; -------------------------------------
+UnitTypeName_main_teepee=Haupttipi
+; --------------------
+CommandName_produce_worker=Arbeiter produzieren
+; -------------------------------------
+UnitTypeName_reed=Schilf
+; --------------------
+CommandName_research_bull_food=Bullenfutter erforschen
+; -------------------------------------
+UnitTypeName_round_tent=Rundzelt
+; --------------------
+CommandName_produce_axe_indian=Axtkämpfer produzieren
+CommandName_produce_axe_thrower=Axtwerfer produzieren
+CommandName_produce_fire_archer=Brandpfeilschütze produzieren
+CommandName_create_training_field=Übungsfeld anlegen
+; -------------------------------------
+UnitTypeName_shaman=Schamane
+; --------------------
+CommandName_molotov=Molotov
+CommandName_produce_thunderbird=Donnervogel produzieren
+CommandName_build_beehive=Bienenkorb bauen
+; -------------------------------------
+; Unit > spearman
+; --------------------
+LevelName_guardian=Wächter
+LevelName_chief=Häuptling
+; -------------------------------------
+UnitTypeName_stickfighter=Stockkämpfer
+; -------------------------------------
+UnitTypeName_tent=Zelt
+; -------------------------------------
+UnitTypeName_thunderbird=Donnervogel
+; --------------------
+CommandName_throw=Werfen
+CommandName_breath=Atmen
+; -------------------------------------
+UnitTypeName_totem=Totem
+; --------------------
+CommandName_air_on=Luftangriff an
+CommandName_research_petroleum=Petroleum erforschen
+CommandName_produce_shaman=Schamanen produzieren
+; -------------------------------------
+UnitTypeName_worker=Arbeiter
+; -----------------------------------------------------------------------------
+; Faction
+FactionName_magic=Magier
+; -------------------------------------
+; Types of Upgrades for this Faction
+UpgradeTypeName_ancient_summoning=Antike Beschwörung
+UpgradeTypeName_dragon_call=Drachenruf
+UpgradeTypeName_energy_compression=Energiebündelung
+UpgradeTypeName_energy_sharpening=Energieschärfung
+UpgradeTypeName_faster_movement=schneller Bewegen
+UpgradeTypeName_golem_power=Golemmächte
+UpgradeTypeName_hell_gate=Höllentor
+; -------------------------------------
+UnitTypeName_archmage=Erzmagier
+; --------------------
+CommandName_static_fire=Elektrisiertes Feuer
+; -------------------------------------
+UnitTypeName_archmage_tower=Erzmagierturm
+; --------------------
+CommandName_research_dragon_call=Drachenruf erforschen
+CommandName_golem_power=Golemmächte
+; -------------------------------------
+UnitTypeName_battlemage=Kampfmagier
+; --------------------
+CommandName_fire_bolt=Feuerblitz
+CommandName_promote_to_archmage=Zum Erzmagier befördern
+; -------------------------------------
+UnitTypeName_behemoth=Behemoth
+; -------------------------------------
+UnitTypeName_daemon=Dämon
+; -------------------------------------
+UnitTypeName_dragon_rider=Drachenreiter
+; --------------------
+CommandName_fire_breath=Feueratem
+CommandName_flare=Fackel
+; -------------------------------------
+UnitTypeName_dragon=Drache
+; --------------------
+CommandName_promote_to_evil_dragon=Zum Teufelsdrachen befördern
+; -------------------------------------
+UnitTypeName_energy_source=Energiequelle
+; -------------------------------------
+UnitTypeName_evil_dragon=Teufelsdrachen
+; -------------------------------------
+UnitTypeName_ghost_armor=Geisterrüstung
+; -------------------------------------
+UnitTypeName_golem=Golem
+; --------------------
+CommandName_promote_to_power_golem=Zu mächtigem Golem befördern
+; -------------------------------------
+UnitTypeName_initiate=Zauberlehrling
+; --------------------
+CommandName_build=Bauen
+CommandName_ritual=Ritual
+CommandName_harvest=Sammeln
+CommandName_promote_to_battlemage=Zum Kampfmagier befördern
+; -------------------------------------
+UnitTypeName_library=Bibliothek
+; --------------------
+CommandName_research_energy_compression=Energiekompression erforschen
+CommandName_research_energy_sharpening=Energieschärfung erforschen
+CommandName_research_hell_gate=Höllentor erforschen
+; -------------------------------------
+UnitTypeName_mage_tower=Magierturm
+; --------------------
+CommandName_produce_initiate=Zauberlehrling produzieren
+; -------------------------------------
+UnitTypeName_power_golem=Mächtiger Golem
+; -------------------------------------
+UnitTypeName_summoner=Beschwörerin
+; --------------------
+CommandName_summon_daemon=Dämon beschwören
+CommandName_summon_ghost_armor=Geisterrüstung beschwören
+CommandName_summon_dragon=Drachen beschwören
+CommandName_summon_wingless_dragon=Laufdrachen beschwören
+; -------------------------------------
+UnitTypeName_summoner_guild=Beschwörergilde
+; --------------------
+CommandName_produce_summoner=Beschwörerin produzieren
+CommandName_research_ancient_summoning=Antike Beschwörung erforschen
+CommandName_speed_up_movement=Bewegung verbessern
+; -------------------------------------
+UnitTypeName_tower_of_souls=Turm der Seelen
+; -------------------------------------
+UnitTypeName_wicker_behemoth=Behemothpuppe
+; --------------------
+CommandName_promote_to_behemoth=Zum Behemoth befördern
+; -----------------------------------------------------------------------------
+; Faction
+FactionName_norsemen=Normannen
+; -------------------------------------
+; Types of Upgrades for this Faction
+UpgradeTypeName_arrow=Pfeil
+UpgradeTypeName_holy_valkyrie=Heilige Walküre
+UpgradeTypeName_mead=Met
+UpgradeTypeName_root=Wurzel
+; -------------------------------------
+UnitTypeName_battleaxe=Axtkämpfer
+; --------------------
+CommandName_promote_to_battleaxe_berserk=Zum Axtkämpfer befördern
+; -------------------------------------
+UnitTypeName_battleaxe_berserk=Axtkampfberserker
+; -------------------------------------
+UnitTypeName_blacksmith=Schmiede
+; --------------------
+CommandName_upgrade_iron=Eisen verbessern
+CommandName_upgrade_arrow=Pfeile verbessern
+CommandName_upgrade_advanced_iron=Eisen optimieren
+CommandName_produce_crossbow=Armbrust produzieren
+; -------------------------------------
+UnitTypeName_bone_tent=Knochenzelt
+; --------------------
+CommandName_produce_swordman=Schwertkämpfer produzieren
+CommandName_produce_battleaxe=Axtkämpfer produzieren
+; -------------------------------------
+UnitTypeName_castle=Schloss
+; --------------------
+CommandName_produce_thrall=Thrull produzieren
+; -------------------------------------
+UnitTypeName_cow=Kuh
+; -------------------------------------
+UnitTypeName_crossbow=Armbrust
+; --------------------
+CommandName_attack_arrow=Pfeilangriff
+; -------------------------------------
+UnitTypeName_cudgel_lady=Keulendame
+; --------------------
+CommandName_cudgel=Keule
+; -------------------------------------
+; Unit > farm
+; --------------------
+CommandName_produce_cow=Kuh produzieren
+; -------------------------------------
+UnitTypeName_flying_valkyrie=Fliegende Walküre
+; -------------------------------------
+UnitTypeName_house=Haus
+; --------------------
+CommandName_produce_cudgel_lady=Keulendame produzieren
+; -------------------------------------
+UnitTypeName_mead_bar=Metkneipe
+; --------------------
+CommandName_research_mead=Met erforschen
+; -------------------------------------
+UnitTypeName_mistletoe_tree=Mistelbaum
+; --------------------
+CommandName_research_root=Wurzel erforschen
+CommandName_resurrect_wild_sow=Wildsau produzieren
+; -------------------------------------
+; Unit > spearman
+; --------------------
+CommandName_promote_to_spearman_berserk=Zum Speerkämpfer befördern
+; -------------------------------------
+UnitTypeName_spearman_berserk=Speerkampfberserker
+; -------------------------------------
+UnitTypeName_swordman=Schwertkämpfer
+; --------------------
+CommandName_promote_to_swordman_berserk=Zum Schwertkämpfer befördern
+; -------------------------------------
+UnitTypeName_swordman_berserk=Schwertkampfberserker
+; -------------------------------------
+UnitTypeName_thor=Thor
+; --------------------
+LevelName_advanced=optimiert
+; -------------------------------------
+UnitTypeName_thor_totem=Thor-Totem
+; --------------------
+CommandName_build_thor=Thorstatue errichten
+; -------------------------------------
+UnitTypeName_thrall=Thrull
+; -------------------------------------
+UnitTypeName_valhalla=Valhalla
+; --------------------
+CommandName_produce_flying_valkyrie=fliegende Walküre produzieren
+CommandName_produce_valkyrie=Walküre produzieren
+CommandName_research_holy_valkyrie=Heilige Walküren erforschen
+; -------------------------------------
+UnitTypeName_valkyrie=Walküre
+; --------------------
+CommandName_airattack=Luftangriff
+; -------------------------------------
+UnitTypeName_wild_sow=Wildsau
+; -----------------------------------------------------------------------------
+; Faction
+FactionName_persian=Perser
+; -------------------------------------
+; Types of Upgrades for this Faction
+UpgradeTypeName_corn_and_wicker=Korn und Korbwaren
+UpgradeTypeName_magic_level_1=Magie Stufe 1
+UpgradeTypeName_magic_level_2=Magie Stufe 2
+UpgradeTypeName_nails=Nägel
+UpgradeTypeName_shield=Schild
+UpgradeTypeName_weapons=Waffen
+; -------------------------------------
+; Unit > blacksmith
+; --------------------
+CommandName_upgrade_weapons=Waffen verbessern
+CommandName_upgrade_nails=Nägel verbessern
+CommandName_upgrade_shield=Schild verbessern
+; -------------------------------------
+UnitTypeName_elephant=Elefant
+; -------------------------------------
+UnitTypeName_elephant_cage=Elefantenkäfig
+; --------------------
+CommandName_produce_elephant=Elefanten produzieren
+; -------------------------------------
+UnitTypeName_fakir=Fakir
+; -------------------------------------
+; Unit > farm
+; --------------------
+CommandName_produce_sheep=Schaf produzieren
+CommandName_research_corn_and_wicker=Korn und Korbwaren erforschen
+; -------------------------------------
+UnitTypeName_flying_carpet=fliegender Teppich
+; --------------------
+CommandName_magic_attack=Magieangriff
+; -------------------------------------
+UnitTypeName_genie=Flaschengeist
+; -------------------------------------
+; Unit > house
+; --------------------
+CommandName_produce_fakir=Fakir produzieren
+; -------------------------------------
+UnitTypeName_magician=Magier
+; --------------------
+CommandName_build_snake_basket=Schlangenkorb bauen
+; -------------------------------------
+UnitTypeName_minaret=Minarett
+; -------------------------------------
+UnitTypeName_palace=Palast
+; -------------------------------------
+UnitTypeName_princess=Prinzessin
+; -------------------------------------
+UnitTypeName_sheep=Schaf
+; -------------------------------------
+UnitTypeName_snake_basket=Schlangenkorb
+; -------------------------------------
+; Unit > temple
+; --------------------
+CommandName_produce_princess=Prinzessin produzieren
+; -------------------------------------
+; Unit > tent
+; --------------------
+CommandName_produce_genie=Flaschengeist produzieren
+CommandName_produce_flying_carpet=fliegenden Teppich produzieren
+CommandName_produce_magician=Magier produzieren
+CommandName_upgrade_magic_level_1=Auf Magie Stufe 1 aufrüsten
+CommandName_upgrade_magic_level_2=Auf Magie Stufe 2 aufrüsten
+; -----------------------------------------------------------------------------
+; Faction
+FactionName_romans=Römer
+; -------------------------------------
+; Types of Upgrades for this Faction
+UpgradeTypeName_advanced_architecture=Fortschrittl. Architektur
+UpgradeTypeName_bless_of_minerva=Segen der Minerva
+UpgradeTypeName_enlarge_shields=Schilde vergrößern
+UpgradeTypeName_formations=Formationen
+UpgradeTypeName_jupiter=Jupiter
+UpgradeTypeName_reinforce_armor=Rüstung verstärken
+UpgradeTypeName_sharpen_points=Spitzen schärfen
+UpgradeTypeName_sign_of_mars=Zeichen des Mars
+UpgradeTypeName_strengthen_swords=Schwerter verstärken
+; -------------------------------------
+; Unit > archer
+; --------------------
+CommandName_get_fire_arrows=Brandpfeile entwickeln
+; -------------------------------------
+UnitTypeName_axe_man=Axtkämpfer
+; -------------------------------------
+UnitTypeName_ballista=Balliste
+; -------------------------------------
+UnitTypeName_battering_ram=Belagerungsramme
+; --------------------
+CommandName_attack_land=Landangriff
+CommandName_attack_air=Luftangriff
+; -------------------------------------
+UnitTypeName_blacksmith_shop=Schmiedeladen
+; --------------------
+CommandName_strengthen_swords=Schwerter verstärken
+CommandName_sharpen_points=Spitzen schärfen
+CommandName_reinforce_armor=Rüstung verstärken
+CommandName_enlarge_shields=Schilde vergrößen
+; -------------------------------------
+UnitTypeName_catapult=Katapult
+; --------------------
+CommandName_fire_ball=Feuerball
+; -------------------------------------
+UnitTypeName_cavalry=Kavallerie
+; --------------------
+CommandName_promote_to_tribune=Zum Tribun befördern
+; -------------------------------------
+UnitTypeName_eagle_pillar=Adlersäule
+; -------------------------------------
+; Unit > fire archer
+; --------------------
+LevelName_accurate=genau
+; -------------------------------------
+UnitTypeName_forum=Forum
+; -------------------------------------
+UnitTypeName_general=General
+; --------------------
+LevelName_esteemed=angesehen
+LevelName_grand=groß
+; -------------------------------------
+UnitTypeName_gladiator=Gladiator
+; -------------------------------------
+UnitTypeName_gladiator_school=Gladiatorenschule
+; --------------------
+CommandName_train_gladiator=Gladiator ausbilden
+CommandName_produce_axe_man=Axtkämpfer produzieren
+; -------------------------------------
+UnitTypeName_guard=Wächter
+; -------------------------------------
+UnitTypeName_guard_tower=Wachturm
+; -------------------------------------
+UnitTypeName_military_camp=Militärlager
+; --------------------
+CommandName_produce_cavalry=Kavallerie produzieren
+CommandName_produce_turtle_formation=Schildkrötenformation produzieren
+CommandName_produce_general=General produzieren
+CommandName_produce_mechanic=Mechaniker produzieren
+CommandName_upgrade_advanced_architecture=Fortschrittliche Architektur
+CommandName_upgrade_formations=Formationen aufwerten
+; -------------------------------------
+UnitTypeName_swordsman=Schwertkämpfer
+; -------------------------------------
+; Unit > temple
+; --------------------
+CommandName_research_sign_of_mars=Zeichen des Mars erforschen
+CommandName_research_jupiter=Jupiter erforschen
+CommandName_upgrade_bless_of_minerva=Segen der Minerva aufwerten
+; -------------------------------------
+UnitTypeName_training_camp=Ausbildungslager
+; --------------------
+CommandName_produce_guard=Wächter produzieren
+CommandName_produce_swordsman=Schwertkämpfer produzieren
+; -------------------------------------
+UnitTypeName_tribune=Tribun
+; -------------------------------------
+UnitTypeName_turtle_formation=Schildkrötenformation
+; -------------------------------------
+UnitTypeName_wartime_mechanic=Kriegsmechaniker
+; --------------------
+CommandName_build_catapult=Katapult bauen
+CommandName_build_battering_ram=Rammbock bauen
+CommandName_build_ballista=Balliste bauen
+; -----------------------------------------------------------------------------
+; Faction
+FactionName_tech=Tech
+; -------------------------------------
+; Types of Upgrades for this Faction
+UpgradeTypeName_blade_weapons=Klingenwaffen
+UpgradeTypeName_piercing_weapons=Stichwaffen
+UpgradeTypeName_robotics=Robotik
+UpgradeTypeName_shield_level_1=Schild (Stufe 1)
+UpgradeTypeName_shield_level_2=Schild (Stufe 2)
+; -------------------------------------
+UnitTypeName_aerodrome=Fliegerhorst
+; --------------------
+CommandName_produce_ornithopter=Ornithopter produzieren
+CommandName_produce_airship=Luftschiff produzieren
+; -------------------------------------
+UnitTypeName_air_ballista=Luftballiste
+; -------------------------------------
+UnitTypeName_airship=Luftschiff
+; --------------------
+CommandName_missile=Rakete
+; -------------------------------------
+UnitTypeName_barracks=Kaserne
+; -------------------------------------
+UnitTypeName_battle_machine=Kampfmaschine
+; -------------------------------------
+; Unit > blacksmith
+; --------------------
+CommandName_upgrade_blade_weapons=Klingenwaffen aufrüsten
+CommandName_upgrade_piercing_weapons=Stichwaffen aufrüsten
+; -------------------------------------
+UnitTypeName_defense_tower=Wachturm
+; -------------------------------------
+; Unit > farm
+; --------------------
+CommandName_produce_pig=Schwein produzieren
+; -------------------------------------
+UnitTypeName_ornithopter=Ornithopter
+; --------------------
+CommandName_fire_arrow=Brandpfeile
+; -------------------------------------
+UnitTypeName_pig=Schwein
+; -------------------------------------
+; Unit > swordman
+; --------------------
+CommandName_promote_to_guard=Zum Wächter befördern
+; -------------------------------------
+UnitTypeName_technician=Techniker
+; --------------------
+CommandName_build_ultimate=Komplexes Gebäude bauen
+CommandName_mine_gold=Gold schürfen
+CommandName_build_battle_machine=Kampfmaschine bauen
+CommandName_build_air_ballista=Luftballiste bauen
+; -------------------------------------
+UnitTypeName_technodrome=Technodrom
+; --------------------
+CommandName_produce_technician=Techniker produzieren
+CommandName_research_advanced_architecture=Fortschrittliche Architektur erforschen
+CommandName_research_robotics=Robotik erforschen
+; -------------------------------------
+; Unit > worker
+; --------------------
+CommandName_build_advanced=Fortgeschrittenes Gebäude bauen
+; -------------------------------------
