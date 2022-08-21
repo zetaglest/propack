@@ -300,6 +300,7 @@
 			<repaired-units>
 				<unit name="farm"/>
 				<unit name="barracks"/>
+				<unit name="castle"/>
 				<unit name="blacksmith"/>
 				<unit name="defense_tower"/>
 				<unit name="technodrome"/>
