@@ -51,7 +51,6 @@
 	<!-- *** skills *** -->
 
 	<skills>
-
 		<skill>
 			<type value="stop"/>
 			<name value="stop_skill"/>
@@ -192,6 +191,33 @@
 		</skill>
 
 		<skill>
+			<type value="attack"/>
+			<name value="attack_skill"/>
+			<ep-cost value="0"/>
+			<speed value="225"/>
+			<anim-speed value="90"/>
+			<animation path="models/worker_mining.g3d"/>
+			<sound enabled="true" start-time="0.5">
+				<sound-file path="$COMMONDATAPATH/sounds/worker_mine1.wav"/>
+				<sound-file path="$COMMONDATAPATH/sounds/worker_mine2.wav"/>
+				<sound-file path="$COMMONDATAPATH/sounds/worker_mine3.wav"/>
+				<sound-file path="$COMMONDATAPATH/sounds/worker_mine4.wav"/>
+				<sound-file path="$COMMONDATAPATH/sounds/worker_mine5.wav"/>
+				<sound-file path="$COMMONDATAPATH/sounds/worker_mine6.wav"/>
+			</sound>
+			<attack-strenght value="100"/>
+			<attack-var value="20"/>
+			<attack-range value="2"/>
+			<attack-type value="energy"/>
+			<attack-fields>
+				<field value="land"/>
+			</attack-fields>
+			<attack-start-time value="0.50"/>
+			<projectile value="false"/>
+			<splash value="false"/>
+		</skill>
+
+		<skill>
 			<type value="die"/>
 			<name value="die_skill"/>
 			<ep-cost value="0"/>
@@ -228,6 +254,16 @@
 			<unit-requirements/>
 			<upgrade-requirements/>
 			<move-skill value="move_skill"/>
+		</command>
+
+		<command>
+			<type value="attack"/>
+			<name value="attack"/>
+			<image path="../archer/images/archer_attack.bmp"/>
+			<unit-requirements/>
+			<upgrade-requirements/>
+			<move-skill value="move_skill"/>
+			<attack-skill value="attack_skill"/>
 		</command>
 
 		<command>
