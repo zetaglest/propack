@@ -68,8 +68,8 @@
 			<type value="move"/>
 			<name value="move_skill"/>
 			<ep-cost value="0"/>
-			<speed value="330"/>
-			<anim-speed value="109"/>
+			<speed value="370"/>
+			<anim-speed value="149"/>
 			<animation path="models/swordman_walking.g3d"/>
 			<sound enabled="false"/>
 		</skill>
@@ -78,8 +78,8 @@
 			<type value="move"/>
 			<name value="charge_skill"/>
 			<ep-cost value="0"/>
-			<speed value="330"/>
-			<anim-speed value="109"/>
+			<speed value="370"/>
+			<anim-speed value="149"/>
 			<animation path="models/swordman_charging.g3d"/>
 			<sound enabled="false"/>
 		</skill>
@@ -105,8 +105,8 @@
 				<sound-file path="$COMMONDATAPATH/sounds/swordman_attack11.wav"/>
 				<sound-file path="$COMMONDATAPATH/sounds/swordman_attack12.wav"/>
 			</sound>
-			<attack-strenght value="80"/>
-			<attack-var value="30"/>
+			<attack-strenght value="100"/>
+			<attack-var value="40"/>
 			<attack-range value="1"/>
 			<attack-type value="slashing"/>
 			<attack-fields>
