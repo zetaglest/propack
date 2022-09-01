@@ -5,11 +5,11 @@
 		<resource name="gold" amount="200"/>
 		<resource name="wood" amount="200"/>
 		<resource name="stone" amount="400"/>
-		<resource name="energy" amount="9"/>
+		<resource name="energy" amount="14"/>
 	</starting-resources>
 	<starting-units>
 		<unit name="mage_tower" amount="1"/>
-		<unit name="initiate" amount="3"/>
+		<unit name="initiate" amount="6"/>
 		<unit name="battlemage" amount="1"/>
 		<unit name="summoner" amount="1"/>
 		<unit name="daemon" amount="1"/>
