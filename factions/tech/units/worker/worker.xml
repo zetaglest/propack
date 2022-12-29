@@ -279,6 +279,7 @@
 				<building name="barracks"/>
 				<building name="blacksmith"/>
 				<building name="technodrome"/>
+                <building name="aerodrome"/>
 				<building name="defense_tower"/>
 				<building name="castle"/>
 			</buildings>
