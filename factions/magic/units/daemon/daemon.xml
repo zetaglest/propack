@@ -75,8 +75,8 @@
 			<type value="attack"/>
 			<name value="attack_skill"/>
 			<ep-cost value="0"/>
-			<speed value="100"/>
-			<anim-speed value="100"/>
+			<speed value="200"/>
+			<anim-speed value="200"/>
 			<animation path="models/daemon_attacking.g3d"/>
 			<sound enabled="true" start-time="0.5">
 				<sound-file path="$COMMONDATAPATH/sounds/daemon_attack1.wav"/>
@@ -96,8 +96,8 @@
 				<sound-file path="$COMMONDATAPATH/sounds/daemon_attack15.wav"/>
 				<sound-file path="$COMMONDATAPATH/sounds/daemon_attack16.wav"/>
 			</sound>
-			<attack-strenght value="90"/>
-			<attack-var value="40"/>
+			<attack-strenght value="150"/>
+			<attack-var value="50"/>
 			<attack-range value="1"/>
 			<attack-type value="slashing"/>
 			<attack-fields>
