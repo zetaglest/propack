@@ -11,7 +11,7 @@
 		<armor value="45"/>
 		<armor-type value="wood"/>
 		<sight value="10"/>
-		<time value="140"/>
+		<time value="80"/>
 		<multi-selection value="true"/>
 		<cellmap value="false"/>
 		<levels>
