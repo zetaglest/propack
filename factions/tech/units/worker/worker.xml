@@ -85,7 +85,7 @@
 			<type value="move"/>
 			<name value="move_skill"/>
 			<ep-cost value="0"/>
-			<speed value="240"/>
+			<speed value="270"/>
 			<anim-speed value="163"/>
 			<animation path="models/worker_walking.g3d"/>
 			<sound enabled="false"/>
@@ -95,7 +95,7 @@
 			<type value="move"/>
 			<name value="move_wood_skill"/>
 			<ep-cost value="0"/>
-			<speed value="240"/>
+			<speed value="260"/>
 			<anim-speed value="163"/>
 			<animation path="models/worker_walking_wood.g3d"/>
 			<sound enabled="false"/>
@@ -105,7 +105,7 @@
 			<type value="move"/>
 			<name value="move_gold_skill"/>
 			<ep-cost value="0"/>
-			<speed value="240"/>
+			<speed value="260"/>
 			<anim-speed value="163"/>
 			<animation path="models/worker_walking_gold.g3d"/>
 			<sound enabled="false"/>
@@ -115,7 +115,7 @@
 			<type value="move"/>
 			<name value="move_loaded_skill"/>
 			<ep-cost value="0"/>
-			<speed value="240"/>
+			<speed value="260"/>
 			<anim-speed value="163"/>
 			<animation path="models/worker_walking_loaded.g3d"/>
 			<sound enabled="false"/>
@@ -125,7 +125,7 @@
 			<type value="move"/>
 			<name value="move_loaded_wood_skill"/>
 			<ep-cost value="0"/>
-			<speed value="240"/>
+			<speed value="260"/>
 			<anim-speed value="163"/>
 			<animation path="models/worker_walking_loaded_wood.g3d"/>
 			<sound enabled="false"/>
