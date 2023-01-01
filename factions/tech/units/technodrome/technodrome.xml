@@ -128,7 +128,7 @@
 			<unit-requirements />
 			<upgrade-requirements />
 			<produce-skill value="produce_skill"/>
-			<produced-unit name="battle_machine"/>
+			<produced-unit name="catapult"/>
 		</command>
 		<command>
 			<type value="upgrade"/>
