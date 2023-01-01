@@ -166,7 +166,7 @@
 			<type value="harvest"/>
 			<name value="harvest_wood_skill"/>
 			<ep-cost value="0"/>
-			<speed value="150"/>
+			<speed value="300"/>
 			<anim-speed value="90"/>
 			<animation path="models/worker_harversting_wood.g3d"/>
 			<sound enabled="true" start-time="0.5">
@@ -305,7 +305,7 @@
 				<resource name="gold"/>
 				<resource name="stone"/>
 			</harvested-resources>
-			<max-load value="5"/>
+			<max-load value="10"/>
 			<hits-per-unit value="1"/>
 		</command>
 
@@ -322,7 +322,7 @@
 			<harvested-resources>
 				<resource name="wood"/>
 			</harvested-resources>
-			<max-load value="20"/>
+			<max-load value="10"/>
 			<hits-per-unit value="1"/>
 		</command>
 
