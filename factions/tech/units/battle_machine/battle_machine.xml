@@ -27,7 +27,6 @@
 			<unit name="technodrome"/>
 		</unit-requirements>
 		<upgrade-requirements>
-			<upgrade name="robotics"/>
 		</upgrade-requirements>
 		<resource-requirements>
 			<resource name="wood" amount="150"/>

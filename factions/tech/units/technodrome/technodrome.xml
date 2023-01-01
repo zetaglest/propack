@@ -111,14 +111,24 @@
 			<produce-skill value="produce_skill"/>
 			<produced-unit name="technician"/>
 		</command>
+
 		<command>
-			<type value="upgrade"/>
-			<name value="research_advanced_architecture"/>
-			<image path="../../upgrades/advanced_architecture/images/advanced_architecture.bmp"/>
-			<unit-requirements/>
-			<upgrade-requirements/>
-			<upgrade-skill value="upgrade_skill"/>
-			<produced-upgrade name="advanced_architecture"/>
+			<type value="produce"/>
+			<name value="produce_battle_machine"/>
+			<image path="../battle_machine/images/battle_machine.bmp"/>
+			<unit-requirements />
+			<upgrade-requirements />
+			<produce-skill value="produce_skill"/>
+			<produced-unit name="battle_machine"/>
+		</command>
+		<command>
+			<type value="produce"/>
+			<name value="produce_catapult"/>
+			<animation path="models/technician_morphing_catapult.g3d"/>
+			<unit-requirements />
+			<upgrade-requirements />
+			<produce-skill value="produce_skill"/>
+			<produced-unit name="battle_machine"/>
 		</command>
 		<command>
 			<type value="upgrade"/>

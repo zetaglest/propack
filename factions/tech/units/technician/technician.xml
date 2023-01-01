@@ -199,40 +199,6 @@
 
 		<skill>
 			<type value="morph"/>
-			<name value="build_catapult"/>
-			<ep-cost value="0"/>
-			<speed value="500"/>
-			<anim-speed value="200"/>
-			<animation path="models/technician_morphing_catapult.g3d"/>
-			<sound enabled="true" start-time="0">
-				<sound-file path="$COMMONDATAPATH/sounds/technician_build1.wav"/>
-				<sound-file path="$COMMONDATAPATH/sounds/technician_build2.wav"/>
-				<sound-file path="$COMMONDATAPATH/sounds/technician_build3.wav"/>
-				<sound-file path="$COMMONDATAPATH/sounds/technician_build4.wav"/>
-				<sound-file path="$COMMONDATAPATH/sounds/technician_build5.wav"/>
-				<sound-file path="$COMMONDATAPATH/sounds/technician_build6.wav"/>
-			</sound>
-		</skill>
-
-		<skill>
-			<type value="morph"/>
-			<name value="build_battle_machine"/>
-			<ep-cost value="0"/>
-			<speed value="500"/>
-			<anim-speed value="200"/>
-			<animation path="models/technician_morphing_battle_machine.g3d"/>
-			<sound enabled="true" start-time="0">
-				<sound-file path="$COMMONDATAPATH/sounds/technician_build1.wav"/>
-				<sound-file path="$COMMONDATAPATH/sounds/technician_build2.wav"/>
-				<sound-file path="$COMMONDATAPATH/sounds/technician_build3.wav"/>
-				<sound-file path="$COMMONDATAPATH/sounds/technician_build4.wav"/>
-				<sound-file path="$COMMONDATAPATH/sounds/technician_build5.wav"/>
-				<sound-file path="$COMMONDATAPATH/sounds/technician_build6.wav"/>
-			</sound>
-		</skill>
-
-		<skill>
-			<type value="morph"/>
 			<name value="build_air_ballista"/>
 			<ep-cost value="0"/>
 			<speed value="300"/>
@@ -363,28 +329,6 @@
 			<upgrade-requirements/>
 			<move-skill value="move_skill"/>
 			<attack-skill value="molotov_skill"/>
-		</command>
-
-		<command>
-			<type value="morph"/>
-			<name value="build_catapult"/>
-			<image path="../catapult/images/catapult.bmp"/>
-			<unit-requirements/>
-			<upgrade-requirements/>
-			<morph-skill value="build_catapult"/>
-			<morph-unit name= "catapult"/>
-			<discount value="40"/>
-		</command>
-
-		<command>
-			<type value="morph"/>
-			<name value="build_battle_machine"/>
-			<image path="../battle_machine/images/battle_machine.bmp"/>
-			<unit-requirements/>
-			<upgrade-requirements/>
-			<morph-skill value="build_battle_machine"/>
-			<morph-unit name= "battle_machine"/>
-			<discount value="40"/>
 		</command>
 
 		<command>
