@@ -124,7 +124,7 @@
 		<command>
 			<type value="produce"/>
 			<name value="produce_catapult"/>
-			<animation path="models/technician_morphing_catapult.g3d"/>
+			<image path="../catapult/images/catapult.bmp"/>
 			<unit-requirements />
 			<upgrade-requirements />
 			<produce-skill value="produce_skill"/>
